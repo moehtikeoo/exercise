@@ -1,0 +1,49 @@
+html {
+  font-family:'Qwitcher Grypen', cursive;
+}
+
+#one {
+  font-family: serif;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+
+#two {
+  font-family: sans-serif;
+  font-size: 2rem;
+  text-transform: uppercase;
+  font-style: italic;
+}
+
+#three {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+#four {
+  font-size: 4rem;
+  font-weight: 700;
+  text-indent: 3rem;
+}
+
+h1 {
+  font-size: 3rem;
+  text-shadow: -2px -2px 2px red;
+  font-family: serif;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2rem;
+  font-family: sans-serif;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#five {
+  font-size: 2rem;
+  text-decoration: line-through;
+  font-family: sans-serif;
+}

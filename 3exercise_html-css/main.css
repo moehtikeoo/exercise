@@ -1,0 +1,31 @@
+html {
+  background-color:  #00539f;
+}
+
+body {
+  background-color: #00C957;
+  width: 60%;
+  height: auto;
+  border: 5px solid black;
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  border: 10px ridge gold;
+  border-radius: 100%;
+  display: block;
+  margin: 10px auto;
+}
+
+h1, p {
+  padding: 0 20px;
+}
+
+#h1 {
+  color: #0266C8;
+}
+
+#h2 {
+  color: #F90101;
+}

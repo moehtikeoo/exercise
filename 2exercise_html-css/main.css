@@ -1,0 +1,25 @@
+.div1 {
+  width: 400PX;
+  height: 200PX;
+  background-color: red;
+  border-radius: 50px;
+  border: 20px groove blue;
+  background-image: url("img/One Piece 50.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.div2 {
+  width: 400px;
+  height: 200px;
+  border: 10px dashed red;
+  margin: 20px auto;
+}
+
+.div3 {
+  width: 400px;
+  height: 200px;
+  border: 10px dashed red;
+  margin: 20px auto;
+  box-sizing: border-box;
+}

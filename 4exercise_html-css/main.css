@@ -1,0 +1,54 @@
+#li3 {
+  color: red;
+}
+
+.li {
+  color: blue;
+}
+
+[target="_blank"] {
+  border: 2px solid red;
+}
+
+#yt:link {
+  color: green;
+}
+
+#yt:visited {
+  color: red;
+}
+
+#yt:hover {
+  color: blue;
+}
+
+#yt:active {
+  color: yellow;
+}
+
+#p1::first-letter {
+  font-family: cursive;
+  font-size: 40px;
+  line-height: 1;
+}
+
+#p1::first-line {
+  font-family: cursive;
+  color: blue;
+}
+
+.div1 p {
+  color: red;
+}
+
+.div2>p {
+  color: red;
+}
+
+.div3+p {
+  color: red;
+}
+
+.div4~p {
+  color: red;
+}
